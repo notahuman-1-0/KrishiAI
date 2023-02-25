@@ -18,6 +18,7 @@ Our platform is user-friendly, accessible, and affordable, making it easy for fa
     - For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
     
 
+
 - Our project features a website that incorporates three distinct applications: Crop Recommendation, Fertilizer Recommendation, and Plant Disease Prediction.
 
     - The Crop Recommendation tool enables users to input their soil data, and based on that information, the application recommends which crop is most suitable for their specific conditions.
